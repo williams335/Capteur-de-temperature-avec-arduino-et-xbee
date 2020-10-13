@@ -3,10 +3,15 @@
 # Tâche à réaliser : Capter et renvoyer la température dès qu’on appuis sur un bouton
 # Composants misent en jeu:
 Un arduino
+
 Un shield
+
 Un bouton
+
 Une résistance
+
 Un Capteur de température lm 35
+
 Un Zigbee
 # Explications:
 L’objectif ici, était de capter la température dans un environnement quelconque et dès l’appuis sur un bouton que nous avons ajouté,  de l’envoyer (la température) vers un xbee.
